@@ -1,3 +1,96 @@
 body {
-	background-color: lightblue;
+	background-image: url("http://img15.deviantart.net/126f/i/2015/361/f/0/championship_thresh___chibi_by_cat_astic-d8a8yfb.png");
+	background-color: lightsteelblue;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-size: 20%
 }
+
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#description {
+	text-align: center;
+}
+
+#add {
+	text-align: center;
+}
+
+.overview {
+	border-radius: 15px;
+	display: inline-block;
+	border: 2px solid white;
+	margin-top: 20px;
+	padding-top: 20px;
+	width: 31%;
+	vertical-align: top;
+}
+
+.types {
+	border-radius: 15px;
+	display: inline-block;
+	border: 2px solid white;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 31%;
+	vertical-align: top;
+}
+
+.additional {
+	border-radius: 15px;
+	display: inline-block;
+	border: 2px solid white;
+	margin-top: 20px;
+	padding-top: 20px;
+	width: 31%;
+	vertical-align: top;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Verdana;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Courier new;
+}
+a:link{
+	color: blue;
+}
+a:visited {
+	color: lightseagreen;
+}
+
+footer {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.survey {
+	text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+    	background-color: lightgreen;
+    	}
+    	.overview {
+    		width: 100%;
+    	}
+    	.types {
+    		width: 100%
+    	}
+    	.additional {
+    		width: 100%
+    	}
+
+    }
+
