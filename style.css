@@ -74,6 +74,10 @@ footer {
 	text-align: center;
 }
 
+.survey {
+	text-align: center;
+}
+
 @media only screen and (max-width: 500px) {
     body {
     	background-color: lightgreen;
