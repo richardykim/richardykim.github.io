@@ -33,7 +33,6 @@ img {
 	padding-bottom: 20px;
 	width: 31%;
 	vertical-align: top;
-	font-family: serif;
 }
 
 .additional {
@@ -45,9 +44,16 @@ img {
 	width: 31%;
 	vertical-align: top;
 }
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Verdana;
+}
 
 h2 {
+	text-align: center;
 	text-decoration: underline;
+	font-family: Courier new;
 }
 a:link{
 	color: blue;
