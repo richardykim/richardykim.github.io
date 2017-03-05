@@ -1,5 +1,11 @@
 body {
-	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/fc/40/a5/fc40a5c3e297f14ac5b835212849f085.jpg");
+	background-image: url("http://img15.deviantart.net/126f/i/2015/361/f/0/championship_thresh___chibi_by_cat_astic-d8a8yfb.png");
+	background-color: lightsteelblue;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-size: 20%
+
 }
 
 img {
@@ -8,7 +14,7 @@ img {
 	margin-right: auto;
 }
 
-body {
+.overview {
 	display: inline-block;
 	border: 2px solid;
 	margin-top: 30px;
