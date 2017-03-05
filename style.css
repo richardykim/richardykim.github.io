@@ -15,7 +15,7 @@ img {
 }
 
 .Overview {
-	border-radius: 25px;
+	border-radius: 15px;
 	display: inline-block;
 	border: 2px solid white;
 	margin-top: 20px;
@@ -25,7 +25,7 @@ img {
 }
 
 .types {
-	border-radius: 25px;
+	border-radius: 15px;
 	display: inline-block;
 	border: 2px solid white;
 	margin-top: 20px;
@@ -33,10 +33,11 @@ img {
 	padding-bottom: 20px;
 	width: 31%;
 	vertical-align: top;
+	font-family: serif;
 }
 
 .additional {
-	border-radius: 25px;
+	border-radius: 15px;
 	display: inline-block;
 	border: 2px solid white;
 	margin-top: 20px;
@@ -47,6 +48,12 @@ img {
 
 h2 {
 	text-decoration: underline;
+}
+a:link{
+	color: blue;
+}
+a:visited {
+	color: lightseagreen;
 }
 
 footer {
