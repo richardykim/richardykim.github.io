@@ -14,13 +14,22 @@ img {
 	margin-right: auto;
 }
 
-.overview {
+.Overview {
 	display: inline-block;
-	border: 2px solid;
-	margin-top: 30px;
+	border: 2px solid white;
+	margin-top: 20px;
 	padding-top: 20px;
-	margin-left: auto;
-	margin-right: auto;
+	width: 33%;
+	vertical-align: top;
+}
+
+.types {
+	display: inline-block;
+	border: 2px solid white;
+	margin-top: 20px;
+	padding-top: 20px;
+	width: 33%;
+	vertical-align: top;
 }
 
 h2 {
