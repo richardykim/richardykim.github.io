@@ -15,23 +15,42 @@ img {
 }
 
 .Overview {
+	border-radius: 25px;
 	display: inline-block;
 	border: 2px solid white;
 	margin-top: 20px;
 	padding-top: 20px;
-	width: 33%;
+	width: 31%;
 	vertical-align: top;
 }
 
 .types {
+	border-radius: 25px;
 	display: inline-block;
 	border: 2px solid white;
 	margin-top: 20px;
 	padding-top: 20px;
-	width: 33%;
+	padding-bottom: 20px;
+	width: 31%;
+	vertical-align: top;
+}
+
+.additional {
+	border-radius: 25px;
+	display: inline-block;
+	border: 2px solid white;
+	margin-top: 20px;
+	padding-top: 20px;
+	width: 31%;
 	vertical-align: top;
 }
 
 h2 {
 	text-decoration: underline;
 }
+
+footer {
+	margin-top: 30px;
+	text-align: center;
+}
+
