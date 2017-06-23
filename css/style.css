@@ -1,0 +1,48 @@
+.banner {
+	background: url(../images/mountains.jpg) no-repeat center center;
+	background-attachment: fixed;
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+	padding: 100px 0;
+	height: 500px;
+}
+
+.banner-words{
+	color: white;
+	font-size: 4em;
+	font-family: Arial sans-serif;
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+.logo{
+	float: left;
+	font-size: 1.5em;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+	color: grey;
+}
+
+.about{
+	height: 600px;
+}
