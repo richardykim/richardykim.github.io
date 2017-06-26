@@ -2,8 +2,20 @@ body{
 	background-color:
 }
 
-.banner {
+.background1{
 	background: url(../images/mountains.jpg) no-repeat center center;
+}
+.background2{
+	background: url(../images/guitar.jpeg) no-repeat center center;
+}
+.background3{
+	background: url(../images/coffee.jpg) no-repeat center center;
+}
+.background4{
+	background: url(../images/bridge.jpeg) no-repeat center center;
+}
+
+.banner {
 	background-attachment: fixed;
 	background-size: cover;
   background-repeat: no-repeat;
@@ -17,6 +29,10 @@ body{
 	font-size: 4em;
 	font-family: "Covered By Your Grace";
 	text-align: center;
+}
+
+.banner2{
+	padding-top: 17em;
 }
 
 ul {
@@ -51,12 +67,16 @@ li a:hover {
 	height: 600px;
 	padding-top: 400px;
 	text-align: center;
-	margin-bottom: 200px;
+	margin-bottom: 350px;
 }
 #line{
 	font-size: 0.5em;
 }
 
-.thumbs {
-	width: 300px;
+.picture{
+	height: 300px;
+}
+
+.thumb{
+	height: 200px;
 }
