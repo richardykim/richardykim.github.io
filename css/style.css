@@ -1,0 +1,100 @@
+body{
+	font-family: "Josefin Sans";
+}
+
+.background1{
+	background: url(../images/mountains.jpg) no-repeat center center;
+}
+.background2{
+	background: url(../images/guitar.jpeg) no-repeat center center;
+}
+.background3{
+	background: url(../images/coffee.jpg) no-repeat center center;
+}
+.background4{
+	background: url(../images/bridge.jpeg) no-repeat center center;
+}
+
+.banner {
+	background-attachment: fixed;
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+	padding: 100px 0;
+	height: 650px;
+}
+
+.banner-words{
+	color: white;
+	font-size: 4em;
+	font-family: "Covered By Your Grace";
+	text-align: center;
+}
+
+.banner2{
+	padding-top: 17em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+.logo{
+	float: left;
+	font-size: 1.5em;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+	color: grey;
+}
+
+.about{
+	height: 600px;
+	padding-top: 400px;
+	text-align: center;
+	margin-bottom: 350px;
+}
+
+#line{
+	font-size: 0.5em;
+}
+
+.picture{
+	height: 300px;
+}
+
+.profile{
+	font-size: 1.2em;
+}
+
+.projects{
+	padding-top: 50px;
+}
+
+.footer{
+	padding-bottom: 30px;
+}
+
+#quote{
+	padding-bottom: 40px;
+}
+
+.thumb{
+	height: 300px;
+	width: 500px;
+}
